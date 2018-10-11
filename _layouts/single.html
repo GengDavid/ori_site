@@ -42,8 +42,9 @@ layout: default
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
         
-             
-        {% if page.citation and page.paperurl %}
+        {% if page.citation and page.paperurl and page.projecturl %}
+          <p>{{ page.citation }} <a href="{{ page.paperurl }}">(paper)</a></p><a href="{{ page.projecturl }}">(code)</a>
+        {% elsif page.citation and page.paperurl %}
           <p>{{ page.citation }} <a href="{{ page.paperurl }}">(paper)</a></p>
         {% elsif page.citation and page.projecturl %}
           <p>{{ page.citation }} <a href="{{ page.projecturl }}">(code)</a></p>
