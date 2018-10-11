@@ -15,8 +15,7 @@ Education
 
 Work experience
 ======
-* Summer 2018: Research and Development Assistant
-  * Tencent
+* Tencent: Research and Development Assistant, Summer 2018
   * Research in Image Super Resolution
   * Application of Super Resolution in mobile terminal (deployment and acceleration)
 
