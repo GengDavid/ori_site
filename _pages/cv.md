@@ -28,7 +28,7 @@ Publications
 Projects
 ======
 * PyTorch-cpn
-  * An implementation of CVPR 2018 paper <em>Cascaded Pyramid Network for Multi-Person Pose Estimation</em>. <a href="https://github.com/GengDavid/pytorch-cpn">GitHub</a> <b>100+ star</b>.
+  * An implementation of CVPR 2018 paper <em>Cascaded Pyramid Network for Multi-Person Pose Estimation</em>. <a href="https://github.com/GengDavid/pytorch-cpn"><font color="blue">GitHub</font></a> <b>100+ star</b>.
 
 Skills
 ======
