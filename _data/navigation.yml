@@ -5,9 +5,7 @@ main:
         
   - title: "My Blog"
     url: /year-archive/
-    
+
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+
