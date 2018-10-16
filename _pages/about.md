@@ -22,6 +22,8 @@ I am a senior student in [School of Data and Computer Science](http://sdcs.sysu.
 * Deep Learning
 * Human Recognition
 
+
+## Publications ##
 {% include base_path %}
 
 {% for post in site.publications reversed %}
