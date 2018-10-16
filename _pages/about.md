@@ -23,7 +23,8 @@ I am a senior student in [School of Data and Computer Science](http://sdcs.sysu.
 * Human Recognition
 
 
-# Publications ##
+# Publications 
+======
 {% include base_path %}
 
 {% for post in site.publications reversed %}
