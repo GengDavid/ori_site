@@ -17,7 +17,7 @@ I am a senior student in [School of Data and Computer Science](http://sdcs.sysu.
 
 
 ## Research Interest
-* Computer Vsion
+* Computer Vision
 * Multimedia Computing
 * Deep Learning
 * Human Recognition
