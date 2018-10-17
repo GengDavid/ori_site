@@ -30,6 +30,11 @@ Projects
 * PyTorch-cpn
   * An implementation of CVPR 2018 paper <em>Cascaded Pyramid Network for Multi-Person Pose Estimation</em>. <a href="https://github.com/GengDavid/pytorch-cpn"><font color="blue">GitHub</font></a> <b>100+ star</b>.
 
+Competitions
+======
+* FashionAI Global Challenge
+  * <em>Key Points Detection of Apparel</em> Final rank(2<sup>nd</sup> round): 53/2322
+
 Skills
 ======
 * Programming Languages
