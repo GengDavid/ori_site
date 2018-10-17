@@ -33,7 +33,7 @@ Projects
 Competitions
 ======
 * FashionAI Global Challenge
-  * <em>Key Points Detection of Apparel</em> Final rank(2<sup>nd</sup> round): 53/2322
+  * <em>Key Points Detection of Apparel</em> Challenge, Final rank(2<sup>nd</sup> round): 53/2322
 
 Skills
 ======
