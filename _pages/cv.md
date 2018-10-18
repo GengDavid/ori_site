@@ -13,9 +13,23 @@ Education
 ======
 * B.S. in Software Engineering, Sun Yat-Sen University, 2019 (expected)
 
-Work experience
+Work Experience
 ======
 * Tencent: Research and Development Assistant, Summer 2018
+  * Research in Image Super Resolution
+  * Application of Super Resolution in mobile terminal (deployment and acceleration)
+
+Research Experience
+======
+* Human Parsing: 2018.05 - 
+  * Research in Image Super Resolution
+  * Application of Super Resolution in mobile terminal (deployment and acceleration)
+
+* Multi-Person Pose Estimation: 2017.11 - 
+  * Research in Image Super Resolution
+  * Application of Super Resolution in mobile terminal (deployment and acceleration)
+
+* Object Tracking: Summer 2017 
   * Research in Image Super Resolution
   * Application of Super Resolution in mobile terminal (deployment and acceleration)
 
