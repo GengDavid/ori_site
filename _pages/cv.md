@@ -62,4 +62,4 @@ Skills
 * Personal
   * Piano
   * Badminton -->
-<meta http-equiv="refresh" content="github.com">    
+<meta http-equiv="refresh" content="url=http://gengdavid.github.io/files/cv_en.pdf">    
