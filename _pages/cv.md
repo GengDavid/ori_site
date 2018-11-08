@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<!-- Education
 ======
 * B.S. in Software Engineering, Sun Yat-Sen University, 2019 (expected)
 
@@ -61,4 +61,5 @@ Skills
   * Caffe/Caffe2
 * Personal
   * Piano
-  * Badminton
+  * Badminton -->
+<meta http-equiv="refresh" content="github.com">    
