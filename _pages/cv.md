@@ -63,4 +63,4 @@ Skills
   * Piano
   * Badminton -->
 <meta http-equiv="refresh" content="0;url=https://gengdavid.github.io/files/cv_en.pdf">    
-If it does not redirect automatically, please click [here](https://gengdavid.github.io/files/cv_en.pdf) to download my cv.
+If it does not redirect automatically, please click <a href="https://gengdavid.github.io/files/cv_en.pdf"><font color="blue"><u>here</u></font></a> to download my cv.
