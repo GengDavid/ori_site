@@ -24,7 +24,7 @@ I am a senior student in [School of Data and Computer Science](http://sdcs.sysu.
 
 ## Projects
 * PyTorch-cpn
-  * An implementation of CVPR 2018 paper <em>Cascaded Pyramid Network for Multi-Person Pose Estimation</em>. <a href="https://github.com/GengDavid/pytorch-cpn">GitHub</a> <b>160+ star</b>.
+  * An implementation of CVPR 2018 paper <em>Cascaded Pyramid Network for Multi-Person Pose Estimation</em>. <a href="https://github.com/GengDavid/pytorch-cpn">GitHub</a> <b>200+ stars</b>.
 
 ## Publications 
 {% include base_path %}
