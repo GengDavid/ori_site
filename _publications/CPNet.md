@@ -5,7 +5,7 @@ permalink: /publication/CPNet
 excerpt: 'CPNet for Clothing Parsing.'
 date: 2018-11-22
 venue: 'IET Image Processing'
-projecturl: 'https://github.com/GengDavid/CPNet'
+paperurl: 'https://digital-library.theiet.org/content/journals/10.1049/iet-ipr.2018.5494'
 citation: 'Zhuo Su, Jiaming Guo, <b>Gengwei Zhang</b>, Xianghui Luo, Ruomei Wang, Fan Zhou. &quot;A Conditional Progressive Network for Clothing Parsing.&quot; <i>IET Image Processing</i>.'
 ---
 
